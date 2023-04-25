@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-25T08:32:10.508034900Z</date>
+  <millis>1682411530508</millis>
+  <nanos>34900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>WARNING</level>
+  <class>org.example.Calculator</class>
+  <method>performRationalOperation</method>
+  <thread>1</thread>
+  <message>Invalid rational number input: [Ljava.lang.String;@5d099f62</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-25T08:32:48.103752400Z</date>
+  <millis>1682411568103</millis>
+  <nanos>752400</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>performRationalOperation</method>
+  <thread>1</thread>
+  <message>Performed rational operation: 5/3 * 3/4 = 15/12</message>
+</record>
+<record>
+  <date>2023-04-25T08:32:51.861575Z</date>
+  <millis>1682411571861</millis>
+  <nanos>575000</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Exiting calculator</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-25T08:39:32.443380200Z</date>
+  <millis>1682411972443</millis>
+  <nanos>380200</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>performRationalOperation</method>
+  <thread>1</thread>
+  <message>Performed rational operation: 2/3 / 3/2 = 4/9</message>
+</record>
+<record>
+  <date>2023-04-25T08:39:36.074124600Z</date>
+  <millis>1682411976074</millis>
+  <nanos>124600</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Exiting calculator</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-25T08:41:30.775574900Z</date>
+  <millis>1682412090775</millis>
+  <nanos>574900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>performRationalOperation</method>
+  <thread>1</thread>
+  <message>Performed rational operation: 2/3 - 3/2 = -5/6</message>
+</record>
+<record>
+  <date>2023-04-25T08:41:33.208312800Z</date>
+  <millis>1682412093208</millis>
+  <nanos>312800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Calculator</logger>
+  <level>INFO</level>
+  <class>org.example.Calculator</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Exiting calculator</message>
+</record>
+</log>
